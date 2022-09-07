@@ -1,0 +1,67 @@
+#meet {
+   background-color: yellow;
+   margin-top: 2rem;
+   margin-left: 47%;
+   height: 2rem;
+   max-width: 6rem;
+}
+#sebastian {
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 4rem;
+}
+.container { 
+    display: flex;
+    justify-content: center;
+    
+}   
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    border: 5px solid black;
+    margin-top: 25px;
+    background-color: yellow;
+    
+}
+.sebastian {
+    text-align: center;
+}
+.btn1 {
+    background-color: green;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-left: 47%;
+    height: 2rem;
+    width: 3rem;
+}
+.btn2 {
+    background-color: red;
+    margin-top: 15px; 
+    height: 2rem;
+    width: 3rem; 
+}
+.reply {
+    text-align: center;
+    font-size: 5rem;
+}
+#pix {
+    height: 200px;
+    width: 300px;
+    background-image: url("./images/bark.jpg");
+    background-size: contain;
+    margin-left: 42%;
+    display: none;
+}
+#cry {
+    height: 200px;
+    width: 300px;
+    background-image: url("./images/cry.jpg");
+    background-size: contain;
+    margin-left: 42%;
+    display: none;
+   
+}
